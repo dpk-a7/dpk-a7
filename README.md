@@ -4,7 +4,7 @@ new
 -->
 <h1 align="center">
 Hi I'm Deepak Avudiappan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src="/ezgif-2-37d4d6e1504e.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
 <br/>
 <img height="350px" width="1000px" src="./galaxy.gif"/>
