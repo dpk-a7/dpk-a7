@@ -3,6 +3,10 @@
 new
 -->
 
+<h1 align="center">
+Hi there welcome to my repo,
+	Im currently working on this page :)
+<br/>
 <img src="/ezgif-2-37d4d6e1504e.gif"/>
 <!-- 
 <h1 align="center">
