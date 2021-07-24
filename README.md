@@ -135,10 +135,10 @@ Hi I'm Deepak Avudiappan
 </p>
 </br>
 ## 📊 Github stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpk-a7&count_private=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dpk-a7&layout=compact)
 
-<!-- https://github.com/sisodiya2421 -->
 ## Let's Connect
 <p align="center">
 	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
