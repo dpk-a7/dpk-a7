@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Deepak Avudiappan
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpk-a7&count_private=true&theme=radical)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dpk-a7&layout=compact)
 
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-Hi, I'm Yashita Namdeo!
+Hi I'm Deepak Avudiappan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
 <br/>
