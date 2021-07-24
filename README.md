@@ -17,63 +17,63 @@ Hi there,
   <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
+        <img src="./react-original.svg" width="48" height="48"  />
       </a>
       <br>Python
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
-        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+        <img src="./react-original.svg" width="48" height="48"  />
       </a>
       <br>Machine Learning
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./javascript-original.svg" width="48" height="48" />
       </a>
       <br>AWS 
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./typescript-original.svg" width="48" height="48" />
       </a>
       <br>MongoDB
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="./sass-original.svg" width="48" height="48"  />
       </a>
       <br>PostgreSQL
     </td>
     <tr>
      <td align="center" width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./git.svg" width="48" height="48" alt="Git" />
+        <img src="./git.svg" width="48" height="48" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+        <img src="./nextjs.svg" width="48" height="48"/>
       </a>
       <br>API Development
     </td>
     </br>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48 />
       </a>
       <br>Web Scraping
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+        <img src="./styled-components.svg" width="48" height="48"  />
       </a>
       <br>Chatbot
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
-        <img src="./python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./python-original.svg" width="48" height="48"  />
       </a>
       <br>JAVA
     </td>
