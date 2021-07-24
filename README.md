@@ -4,11 +4,11 @@ new
 -->
 
 <img src="/ezgif-2-37d4d6e1504e.gif"/>
-
+<!-- 
 <h1 align="center">
 Hi there,
 	I'm Deepak Avudiappan
-<br/>
+<br/> -->
 <table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
