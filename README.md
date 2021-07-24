@@ -19,31 +19,31 @@ Hi there,
       <a href="#macropower-tech" >
         <img src="./react-original.svg" width="48" height="48" alt="React.js" />
       </a>
-      <br>React.js
+      <br>Python
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech" >
         <img src="./react-original.svg" width="48" height="48" alt="React Native" />
       </a>
-      <br>React Native
+      <br>Machine Learning
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript
+      <br>AWS 
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>MongoDB
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br>Sass
+      <br>PostgreSQL
     </td>
     <tr>
      <td align="center" width="140" height="112.43">
@@ -56,26 +56,26 @@ Hi there,
       <a href="#macropower-tech">
         <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
       </a>
-      <br>Next.js
+      <br>API Development
     </td>
     </br>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
       </a>
-      <br>Firebase
+      <br>Web Scraping
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
       </a>
-      <br>Styled-components
+      <br>Chatbot
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#macropower-tech">
         <img src="./python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Python
+      <br>JAVA
     </td>
    </tr>
   </tr>
