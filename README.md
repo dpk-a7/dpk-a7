@@ -7,12 +7,6 @@ Hi I'm Deepak Avudiappan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
 <br/>
-
-## 📊 Github stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpk-a7&count_private=true&theme=radical)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dpk-a7&layout=compact)
-
 <img height="350px" width="1000px" src="./galaxy.gif"/>
 <table align= "center">
   <tr>
@@ -140,6 +134,10 @@ Hi I'm Deepak Avudiappan
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
+## 📊 Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpk-a7&count_private=true&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dpk-a7&layout=compact)
+
 <!-- https://github.com/sisodiya2421 -->
 ## Let's Connect
 <p align="center">
