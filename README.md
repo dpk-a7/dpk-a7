@@ -4,10 +4,9 @@ new
 -->
 <h1 align="center">
 Hi I'm Deepak Avudiappan
-  <img src="/ezgif-2-37d4d6e1504e.gif" width="30"></h1>
  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
 <br/>
-<img height="350px" width="1000px" src="./galaxy.gif"/>
+<img height="350px" width="1000px" src="/ezgif-2-37d4d6e1504e.gif"/>
 <table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
