@@ -3,8 +3,7 @@
 new
 -->
 <h1 align="center">
-Hi I'm Deepak Avudiappan
- <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a>
+Hi there!
 <br/>
 <img height="350px" width="1000px" src="/ezgif-2-37d4d6e1504e.gif"/>
 <table align= "center">
