@@ -83,7 +83,7 @@ Hi there,
 </br>
 
 ![Advanced English](https://img.shields.io/badge/-Advanced%20English-00C7B7?&logoWidth=5&style=for-the-badge) ✔️  
-## 🛠️ My favorite tools
+## 🛠️ My tools
 ### 👨‍💻 Programming languages
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
@@ -129,15 +129,15 @@ Hi there,
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Cyberduck" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Cyberduck" src="https://img.shields.io/badge/Cyberduck%20-yellow?logo=Cyberduck&logoColor=blue"></a>
+    <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/Spyder%20-white?logo=spyderide&logoColor=blue"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
     <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="#"><img alt="QT5" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="PuTTY" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>	
-    <a href="#"><img alt="Anaconda" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>	
-    <a href="#"><img alt="Prezi" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+    <a href="#"><img alt="QT5" src="https://img.shields.io/badge/QT5%20-green?logo=qt&logoColor=darkgreen"></a>
+    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm%20-yellow?logo=pycharm&logoColor=black"></a>
+    <a href="#"><img alt="PuTTY" src ="https://img.shields.io/badge/PuTTy-green"></a>	
+    <a href="#"><img alt="Anaconda" src ="https://img.shields.io/badge/Anaconda%20-green?logo=anaconda&logoColor=darkgreen"></a>	
+    <a href="#"><img alt="Prezi" src="https://img.shields.io/badge/Prezi%20-blue?logo=prezi&logoColor=darkblue"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
@@ -145,9 +145,9 @@ Hi there,
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="CI/CD" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>	
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-blue?logo=docker&logoColor=darkblue"></a>
+    <a href="#"><img alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes%20-white?logo=kubernetes&logoColor=darkblue"></a>
+    <a href="#"><img alt="CI/CD" src ="https://img.shields.io/badge/CI/CD%20-gray"></a>	
 </p>
 </br>
 <h3>📊 Github stats<h3>
@@ -159,7 +159,7 @@ Hi there,
 <p align="center">
 <!-- 	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
 <!-- 	<a href="https://github.com/yashitanamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> -->
-	<a href="https://www.instagram.com/deepak.avudiappan_7/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/yashitanamdeo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/deepak-avudiappan-412283b0/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/deepak.avudiappan_7/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:deepakavudiappan@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
