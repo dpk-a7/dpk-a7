@@ -13,6 +13,7 @@ Hi there welcome to my repo,
 Hi there,
 	I'm Deepak Avudiappan
 <br/> -->
+<h1 align="center">🛠️ My Favorites</h1>
 <table align= "center">
   <tr>
      <td align="center" width="140" height="112.43">
