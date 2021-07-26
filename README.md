@@ -17,63 +17,63 @@ Hi there,
   <tr>
      <td align="center" width="140" height="112.43">
       <a href="#" >
-        <img src="" width="48" height="48"  />
+        <img src="9194c978fa63798b2e882e6fda5eb953.png" width="48" height="48"  />
       </a>
       <br>Python
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#" >
-        <img src="" width="48" height="48"  />
+        <img src="index.png" width="48" height="48"  />
       </a>
       <br>Machine Learning
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#">
-        <img src="" width="48" height="48" />
+        <img src="aws-logo.png" width="48" height="48" />
       </a>
       <br>AWS 
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#">
-        <img src="" width="48" height="48" />
+        <img src="mongodb-logo.png" width="48" height="48" />
       </a>
       <br>MongoDB
     </td>
     <td align="center"  width="140" height="112.43">
       <a href="#">
-        <img src="" width="48" height="48"  />
+        <img src="1200px-Postgresql_elephant.svg.png" width="48" height="48"  />
       </a>
       <br>PostgreSQL
     </td>
     <tr>
        <td align="center" width="140" height="112.43">
         <a href="#">
-          <img src="" width="48" height="48" />
+          <img src="Git-Icon-1788C.png" width="48" height="48" />
         </a>
         <br>Git
       </td>
       <td align="center"  width="140" height="112.43">
         <a href="#">
-          <img src="" width="48" height="48"/>
+          <img src="index1.png" width="48" height="48"/>
         </a>
         <br>API Development
       </td>
   <!--     </br> -->
       <td align="center"  width="140" height="112.43">
         <a href="#">
-          <img src="" width="48" height="48" />
+          <img src="logo-website-file-globe-icon-svg-wikimedia-commons-21.png" width="48" height="48" />
         </a>
         <br>Web Scraping
       </td>
       <td align="center"  width="140" height="112.43">
         <a href="#">
-          <img src="" width="48" height="48"  />
+          <img src="index2.png" width="48" height="48"  />
         </a>
         <br>Chatbot
       </td>
       <td align="center"  width="140" height="112.43">
         <a href="#macropower-tech">
-          <img src="" width="48" height="48"  />
+          <img src="java-logo.svg" width="48" height="48"  />
         </a>
         <br>JAVA
       </td>
