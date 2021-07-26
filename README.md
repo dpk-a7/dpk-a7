@@ -161,7 +161,7 @@ Hi there,
 <!--https://img.icons8.com/bubbles/50/000000/linkedin.png 		  -->
 <!-- 	<a href="https://yashitanamdeo.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a> -->
 <!-- 	<a href="https://github.com/yashitanamdeo" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a> -->
-	<a href="https://www.linkedin.com/in/deepak-avudiappan-412283b0/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw1Fbdgm545f7NysVk8zkNta&ust=1627387512473000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJCDu8TYgPICFQAAAAAdAAAAABAD" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/deepak-avudiappan-412283b0/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/deepak.avudiappan_7/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="mailto:deepakavudiappan@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
