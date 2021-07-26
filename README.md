@@ -6,7 +6,7 @@ new
 Hi there welcome to my repo,
 	Im currently working on this page :)
 <br/>
-<img src="/ezgif-2-6192432d728f.gif"/>
+<img src="/ezgif-2-654e14252724.gif"/>
 <!-- 
 <h1 align="center">
 Hi there,
