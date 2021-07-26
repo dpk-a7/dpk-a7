@@ -3,8 +3,7 @@ new
 -->
 
 <h1 align="center">
-Hi there welcome to my repo,
-	Im currently working on this page :)
+Hi there! Welcome to my repo
 <br/>
 <img src="/ezgif-2-654e14252724.gif"/>
 <!-- 
